@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=ret2ldz)](https://github.com/IceEnd)
 <!--
 **ret2ldz/ret2ldz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
