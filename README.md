@@ -1,6 +1,5 @@
-## Hi there 👋
-<h1 align="center">Hi 👋, I'm ret2ldz</h1>
-<h3 align="center">A handsome boy in CN</h3>
+<h1 align="center">Yoo~ 😉, I'm ret2ldz</h1>
+<h3 align="center">A ctfer who majored in PWN/binary exploit</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ret2ldz&label=Profile%20views&color=0e75b6&style=flat" alt="ret2ldz" /> </p>
 
@@ -14,7 +13,7 @@
 
 - 📫 How to reach me **2691605373@qq.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:(+86)18600398261</h3>
 <p align="left">
 </p>
 
