@@ -2,9 +2,9 @@
 <h3 align="center">A ctfer who majored in PWN/binary exploit</h3>
 <div align="justify">
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./output.gif">
-    <source media="(prefers-color-scheme: light)" srcset="./output.gif">
-    <img alt="GIFOS" src="output.gif">
+    <source media="(prefers-color-scheme: dark)" srcset="./out.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./out.gif">
+    <img alt="GIFOS" src="out.gif">
 </picture>
 
 
