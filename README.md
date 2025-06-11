@@ -8,12 +8,7 @@
     <img alt="GIFOS" src="output.gif">
 </picture>
 <!-- <details>
-<summary>More details</summary>
 
-</details> -->
-</div>
-
-<!-- Image deletion URL: NONE -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ret2ldz&label=Profile%20views&color=0e75b6&style=flat" alt="ret2ldz" /> </p>
 
