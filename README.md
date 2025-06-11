@@ -1,6 +1,20 @@
 <h1 align="center">Yoo~ 😉, I'm ret2ldz</h1>
 <h3 align="center">A ctfer who majored in PWN/binary exploit</h3>
 
+<div align="justify">
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./output.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./output.gif">
+    <img alt="GIFOS" src="output.gif">
+</picture>
+<!-- <details>
+<summary>More details</summary>
+
+</details> -->
+</div>
+
+<!-- Image deletion URL: NONE -->
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ret2ldz&label=Profile%20views&color=0e75b6&style=flat" alt="ret2ldz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ret2ldz" alt="ret2ldz" /></a> </p>
